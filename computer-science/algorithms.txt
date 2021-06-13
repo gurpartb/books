@@ -1,0 +1,2 @@
+1. https://mitpress.mit.edu/books/introduction-algorithms-second-edition
+ - recommended in Cracking The Coding Interview
